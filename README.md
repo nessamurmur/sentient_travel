@@ -32,3 +32,4 @@ Contributing
 * [The TARDIS](http://tardis.wikia.com/wiki/TARDIS)
 * [KITT](https://en.wikipedia.org/wiki/KITT)
 * [Shadowfax](https://www.youtube.com/watch?v=-_WrJyp-WYI)
+* [King of Red Lions](http://zelda.wikia.com/wiki/King_of_Red_Lions)
