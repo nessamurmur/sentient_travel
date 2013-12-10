@@ -12,19 +12,19 @@ Does _____ Count?
 
 2. Can You Travel On/In It?
 
-Contributing
-============
-
-1. Fork!
-2. Add something to the list. Please include a link to wikipedia, a funny video, or something else that provides some background.
-3. Submit a pull request!
-
 ### Examples:
 
 * Falcor from Never Ending Story
 * KITT from Knight Rider
 * The Tardis from Doctor Who
 * Shadowfax from LOTR
+
+Contributing
+============
+
+1. Fork!
+2. Add something to the list. Please include a link to wikipedia, a funny video, or something else that provides some background.
+3. Submit a pull request!
 
 # The List
 
